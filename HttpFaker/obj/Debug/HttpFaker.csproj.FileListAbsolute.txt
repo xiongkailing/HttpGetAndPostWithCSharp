@@ -1,0 +1,15 @@
+F:\Code\TestReflection\TestReflection\bin\Debug\HttpFaker.exe.config
+F:\Code\TestReflection\TestReflection\bin\Debug\HttpFaker.exe
+F:\Code\TestReflection\TestReflection\bin\Debug\HttpFaker.pdb
+F:\Code\TestReflection\TestReflection\bin\Debug\Newtonsoft.Json.dll
+F:\Code\TestReflection\TestReflection\bin\Debug\Newtonsoft.Json.xml
+F:\Code\TestReflection\TestReflection\obj\Debug\HttpFaker.exe
+F:\Code\TestReflection\TestReflection\obj\Debug\HttpFaker.pdb
+F:\Code\TestReflection\HttpFaker\bin\Debug\HttpFaker.exe.config
+F:\Code\TestReflection\HttpFaker\bin\Debug\HttpFaker.exe
+F:\Code\TestReflection\HttpFaker\bin\Debug\HttpFaker.pdb
+F:\Code\TestReflection\HttpFaker\bin\Debug\Newtonsoft.Json.dll
+F:\Code\TestReflection\HttpFaker\bin\Debug\Newtonsoft.Json.xml
+F:\Code\TestReflection\HttpFaker\obj\Debug\HttpFaker.csprojResolveAssemblyReference.cache
+F:\Code\TestReflection\HttpFaker\obj\Debug\HttpFaker.exe
+F:\Code\TestReflection\HttpFaker\obj\Debug\HttpFaker.pdb
