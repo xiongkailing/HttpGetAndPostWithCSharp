@@ -13,6 +13,13 @@ namespace HttpFaker
     public class HttpHelper
     {
         private static CookieContainer cookie = new CookieContainer();
+        /// <summary>
+        /// /*如果想使用cookie 连续访问某个域下的action 可以将static方法转为非静态的
+        /// 实例化单个HttpHelper*/
+        /// </summary>
+        /// <param name="url">url不带参数</param>
+        /// <param name="data">数据</param>
+        /// <param name="handler">回调函数</param>
         public static void HttpGet(string url, object data, ReturnHandler handler)
         {
             if (data != null)
@@ -41,6 +48,13 @@ namespace HttpFaker
             myResponseStream.Close();
             handler(retString);
         }
+        /// <summary>
+        /// /*如果想使用cookie 连续访问某个域下的action 可以将static方法转为非静态的
+        /// 实例化单个HttpHelper*/
+        /// </summary>
+        /// <param name="url">url不带参数</param>
+        /// <param name="data">数据</param>
+        /// <param name="handler">回调函数</param>
         public static void HttpPost(string url, object data, ReturnHandler handler)
         {
             string urlParams = string.Empty;
