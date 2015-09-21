@@ -1,0 +1,7 @@
+F:\Code\TestReflection\TestReflection\bin\Debug\TestReflection.exe.config
+F:\Code\TestReflection\TestReflection\bin\Debug\TestReflection.exe
+F:\Code\TestReflection\TestReflection\bin\Debug\TestReflection.pdb
+F:\Code\TestReflection\TestReflection\obj\Debug\TestReflection.exe
+F:\Code\TestReflection\TestReflection\obj\Debug\TestReflection.pdb
+F:\Code\TestReflection\TestReflection\bin\Debug\Newtonsoft.Json.dll
+F:\Code\TestReflection\TestReflection\bin\Debug\Newtonsoft.Json.xml
